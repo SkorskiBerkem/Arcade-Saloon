@@ -1,0 +1,557 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.31f1 (6b54b7616050) revision 7034039'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Core' Language: 'en' Physical Memory: 16122 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/User/Desktop/berkem/ders/Arcade Saloon
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58401
+Successfully changed project path to: C:/Users/User/Desktop/berkem/ders/Arcade Saloon
+C:/Users/User/Desktop/berkem/ders/Arcade Saloon
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.31f1 (6b54b7616050)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/berkem/ders/Arcade Saloon/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   
+    VRAM:     6023 MB
+    Driver:   30.0.14.7247
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001813 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 24.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.416 seconds
+Domain Reload Profiling:
+	ReloadAssembly (416ms)
+		BeginReloadAssembly (48ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (315ms)
+			LoadAssemblies (46ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (105ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (22ms)
+			SetupLoadedEditorAssemblies (120ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (24ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (60ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002214 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Domain Reload Profiling:
+	ReloadAssembly (738ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (580ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (194ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (227ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (149ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1506 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.6 MB.
+System memory in use after: 68.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1942.
+Total: 2.156500 ms (FindLiveObjects: 0.100100 ms CreateObjectMapping: 0.024400 ms MarkObjects: 1.975200 ms  DeleteObjects: 0.056100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c55409359c0051422e58de30b0573d') in 0.006477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 763.112773 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Models
+  artifactKey: Guid(e0c0192a93a4fc4478a9490ce824d906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Models using Guid(e0c0192a93a4fc4478a9490ce824d906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5954ecc0a07fdc9e4a34fdfe7df52bea') in 0.006645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061194 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV1.fbx
+  artifactKey: Guid(00af686d47195e845856ec0209fed0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV1.fbx using Guid(00af686d47195e845856ec0209fed0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c6838cbde3a1ccd7240a47e310c6e7f') in 0.122678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/PinballMachineV1.fbx
+  artifactKey: Guid(442bb5b0208f7c24cad4b2cd719c315f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/PinballMachineV1.fbx using Guid(442bb5b0208f7c24cad4b2cd719c315f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6c61353c2ae8d5bd3c941c65828470') in 0.177468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/PinballMachineV1_WO_Glass.fbx
+  artifactKey: Guid(dc47f08ff791f49479a900308eceb55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/PinballMachineV1_WO_Glass.fbx using Guid(dc47f08ff791f49479a900308eceb55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f651af3e1b36321c77e4a7f01d9f76a0') in 0.022625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV3.fbx
+  artifactKey: Guid(2dd8edde3f7483e40a900f61ba7f2d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV3.fbx using Guid(2dd8edde3f7483e40a900f61ba7f2d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94324bbe756bb8ddfaab72957c6f4b5') in 0.033698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV2.fbx
+  artifactKey: Guid(bd11457e199b7bd47af8a179b45837d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV2.fbx using Guid(bd11457e199b7bd47af8a179b45837d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa471a509e1d617a5c7a71879fea250b') in 0.024976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV4.fbx
+  artifactKey: Guid(d784b016a2b174543978f0323e0eee7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Models/ArcadeMachineV4.fbx using Guid(d784b016a2b174543978f0323e0eee7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c640180a358fc7e6cf27c8d3d3216fa') in 0.026356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.854305 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/ArcadeMachineV1.prefab
+  artifactKey: Guid(56c8dae64d3bec446853710a45df2cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/ArcadeMachineV1.prefab using Guid(56c8dae64d3bec446853710a45df2cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8077e1619ce2e3295eb280962ccacc46') in 0.012481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/ArcadeMachineV4.prefab
+  artifactKey: Guid(867e6bc493b0510469a23a5629a6ee06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/ArcadeMachineV4.prefab using Guid(867e6bc493b0510469a23a5629a6ee06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '391ee98c7d35e1ff7d762f07b31475a7') in 0.014497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/PinballMachineV1.prefab
+  artifactKey: Guid(8e80ec2670dd6ca4c9e6790492919033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/PinballMachineV1.prefab using Guid(8e80ec2670dd6ca4c9e6790492919033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02b0d19fe069685c64d2639415468e1') in 0.027049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/ArcadeMachineV2.prefab
+  artifactKey: Guid(ab1a58ccf9bbd864590fb4d78555f7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/ArcadeMachineV2.prefab using Guid(ab1a58ccf9bbd864590fb4d78555f7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1b2b66df473e76645d4f6c1fb2f645') in 0.025290 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/ArcadeMachineV3.prefab
+  artifactKey: Guid(09c5e99668f3fd1458b27251bf645589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/ArcadeMachineV3.prefab using Guid(09c5e99668f3fd1458b27251bf645589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c479b11d7fc3917d9ce053c2cd3baebe') in 0.028944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/PinballMachineV1_WO_Glass.prefab
+  artifactKey: Guid(3fc3d5ff0909ae646976cfab7c018c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Alstra Infinite/Arcade Machines - PolyPack/Prefabs/PinballMachineV1_WO_Glass.prefab using Guid(3fc3d5ff0909ae646976cfab7c018c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deef9e0c978bb19ced8ca98e10482e05') in 0.015667 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001513 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.725 seconds
+Domain Reload Profiling:
+	ReloadAssembly (726ms)
+		BeginReloadAssembly (91ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (589ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (204ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (218ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (143ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.8 MB.
+System memory in use after: 71.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1955.
+Total: 2.763600 ms (FindLiveObjects: 0.103500 ms CreateObjectMapping: 0.026900 ms MarkObjects: 2.611900 ms  DeleteObjects: 0.020600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 623.384968 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models
+  artifactKey: Guid(ccb6cf97bfea3da43a01ba421afcdf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models using Guid(ccb6cf97bfea3da43a01ba421afcdf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23ba46ead070cd7c29905ff4bc59a9f3') in 0.006406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.046369 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models/ArcadeStandardFBX.fbx
+  artifactKey: Guid(6fc78d28f5603c241ae27d2d12370bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models/ArcadeStandardFBX.fbx using Guid(6fc78d28f5603c241ae27d2d12370bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1262c690dd511d23ce17a3a0e7adc64b') in 0.113591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models/TableTop.fbx
+  artifactKey: Guid(df9226708d866c74983fcc106a6fa385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models/TableTop.fbx using Guid(df9226708d866c74983fcc106a6fa385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56760f628938173f844654651cc5b863') in 0.010999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models/ControlButtonHolder.fbx
+  artifactKey: Guid(344e0888a6435b94685032a6bdff2c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models/ControlButtonHolder.fbx using Guid(344e0888a6435b94685032a6bdff2c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d163e6b560210f1d4bd89a439284927') in 0.010018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models/ControlStickBasefbx.fbx
+  artifactKey: Guid(68df56b9288ddf141804bfcf4c6aed3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models/ControlStickBasefbx.fbx using Guid(68df56b9288ddf141804bfcf4c6aed3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa83413d0d4b9d187ca6a829622981a') in 0.009821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models/ChairShort.fbx
+  artifactKey: Guid(95430c01e1f804041a5fe06a8879650c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models/ChairShort.fbx using Guid(95430c01e1f804041a5fe06a8879650c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9166288956280d22624a0dd4efeca926') in 0.010389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models/ControlStickfbx.fbx
+  artifactKey: Guid(e3a63b764d1ce4544b9649745770795d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models/ControlStickfbx.fbx using Guid(e3a63b764d1ce4544b9649745770795d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95f6157a0a0086e50f44d843f528686') in 0.010334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models/ChairTallfbx.fbx
+  artifactKey: Guid(e2866703cb3ac774ea749461e60781b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models/ChairTallfbx.fbx using Guid(e2866703cb3ac774ea749461e60781b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed81b719062555b774d93c9c47569388') in 0.013739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Models/ControlButtonFbx.fbx
+  artifactKey: Guid(67fc7cc8eb18d07478486e47f680c96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Models/ControlButtonFbx.fbx using Guid(67fc7cc8eb18d07478486e47f680c96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92377501da9e686b585c8a21a95477a0') in 0.014142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.995409 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardAlientox.png
+  artifactKey: Guid(b6ebf2b7d6327ff4ebdb2906ab8634bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardAlientox.png using Guid(b6ebf2b7d6327ff4ebdb2906ab8634bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31eb7b981f76bcfbca29ebb7431cc605') in 0.024851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardAlientoxSCREEN.png
+  artifactKey: Guid(68e16b1106ab60347a0c278981b67cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardAlientoxSCREEN.png using Guid(68e16b1106ab60347a0c278981b67cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd356b85440052cb2facb40f10c1b02') in 0.011011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/TableTopBarred.png
+  artifactKey: Guid(ae2d7020f7d9e734fb94ffe2ed211ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/TableTopBarred.png using Guid(ae2d7020f7d9e734fb94ffe2ed211ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866ef96a186c4c2c43a8d9e57a65f4f2') in 0.008020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardPSquadScreenFBX.png
+  artifactKey: Guid(908f938c412ebe54788290dbb5315e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardPSquadScreenFBX.png using Guid(908f938c412ebe54788290dbb5315e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1294f5492de8b7a91caddcf2cfb5a60') in 0.008227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ControlsBlue.png
+  artifactKey: Guid(31537b5e00b5c764698411924345bb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ControlsBlue.png using Guid(31537b5e00b5c764698411924345bb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b13d4215f3d5de1b6b9c49b34bf6ac50') in 0.015548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ControlsLightBlue.png
+  artifactKey: Guid(be2febc3d288c044f88d909990e3d826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ControlsLightBlue.png using Guid(be2febc3d288c044f88d909990e3d826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c491b267ba6e7e425cb57b43d3b2f713') in 0.009866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardXOXOXOSCREEN.png
+  artifactKey: Guid(dd5ba3937c6d9a540baf88aa34565531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardXOXOXOSCREEN.png using Guid(dd5ba3937c6d9a540baf88aa34565531) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c6533e03db684c32dea0afdae8f696') in 0.008164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ControlsYellow.png
+  artifactKey: Guid(564998f3508aeba4faa509277bbfc7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ControlsYellow.png using Guid(564998f3508aeba4faa509277bbfc7d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5438cc24d7619eb0e9ceec5e0ef2b99e') in 0.015732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardHotLavaSCREENtexture.png
+  artifactKey: Guid(ceda9059be53df74a99e248dc833cb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardHotLavaSCREENtexture.png using Guid(ceda9059be53df74a99e248dc833cb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb01ef15a074201dfc83992404e03e3e') in 0.008902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ControlsOrange.png
+  artifactKey: Guid(10bd90ef0e54827489b818e1e71c9630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ControlsOrange.png using Guid(10bd90ef0e54827489b818e1e71c9630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2bb56bdbd66da5dbc5cae352e8af25') in 0.008837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/TableTopNNeutronus.png
+  artifactKey: Guid(50534804be2ab4e4b87335c0a9f63b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/TableTopNNeutronus.png using Guid(50534804be2ab4e4b87335c0a9f63b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b0ef7c3dd644b0aee779397244c842') in 0.008453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardPSquadFBX.png
+  artifactKey: Guid(310c88b63b1725b4ea8c8e4b3f90aaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardPSquadFBX.png using Guid(310c88b63b1725b4ea8c8e4b3f90aaeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33d15d987677719177fb409a07be7ec') in 0.008458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ControlsPurple.png
+  artifactKey: Guid(16c90da1985171c498dc827747097443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ControlsPurple.png using Guid(16c90da1985171c498dc827747097443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070e5b0b6dd352aea5e397b9b9e89277') in 0.008937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardXOXOXO.png
+  artifactKey: Guid(bac3ddf5b6536d344ae5a5fc919ae466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardXOXOXO.png using Guid(bac3ddf5b6536d344ae5a5fc919ae466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4732f341ec2ddb5dec848d97bda9deb') in 0.008540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardAskySCREENTexture.png
+  artifactKey: Guid(6e6097f94da76c84b87aa80fc8407596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardAskySCREENTexture.png using Guid(6e6097f94da76c84b87aa80fc8407596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e03bc54d857455263ec0dc32c7c64822') in 0.007900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ControlsBlack.png
+  artifactKey: Guid(90c2df07237f0f947bbd5309628dc905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ControlsBlack.png using Guid(90c2df07237f0f947bbd5309628dc905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98e8eeaf6c0e8be9d62d66f3162a32d') in 0.008642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ControlsRed.png
+  artifactKey: Guid(c65d5578d085cff43b9b58762271871a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ControlsRed.png using Guid(c65d5578d085cff43b9b58762271871a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790b1ee0f1228f7889fde1519ed6b8ec') in 0.010787 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ChairTallTexture.png
+  artifactKey: Guid(b265636a0647da14ea96a2bab47484de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ChairTallTexture.png using Guid(b265636a0647da14ea96a2bab47484de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546c7645707066dd61b8310820116c27') in 0.013925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardAskyTexture.png
+  artifactKey: Guid(b05bd0bc48fefe04facba9d59f6512e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardAskyTexture.png using Guid(b05bd0bc48fefe04facba9d59f6512e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9785e42ca20c53dc2a1159ee84dc5f') in 0.010589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ControlsGreen.png
+  artifactKey: Guid(2ccb55ba42881ec408c9ce47cbbda1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ControlsGreen.png using Guid(2ccb55ba42881ec408c9ce47cbbda1bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96c30bdc41c03df07c02a9fddba81e3') in 0.019079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardHotLavaFBX.png
+  artifactKey: Guid(028065be641656547af9b8d45eb4a44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Textures/ArcadeStandardHotLavaFBX.png using Guid(028065be641656547af9b8d45eb4a44c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1af4ad4bcc4191d2dffea7689fa5b40') in 0.010630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.954389 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades
+  artifactKey: Guid(c9482f1161ff64c408b22a8feb360448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades using Guid(c9482f1161ff64c408b22a8feb360448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41b1b45e06832b18fdafc59723a1a3d') in 0.004910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.079261 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardAlienTon.prefab
+  artifactKey: Guid(a796a082b54ce5649b96793b4a3e96c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardAlienTon.prefab using Guid(a796a082b54ce5649b96793b4a3e96c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a28ff8306da37fdb604a8490f61aec') in 0.026529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardAlienTonScreen.prefab
+  artifactKey: Guid(162afb80391ab99488833ef7d4b18b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardAlienTonScreen.prefab using Guid(162afb80391ab99488833ef7d4b18b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff7c2895e0d6d8891bed3c081570058') in 0.015156 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/TableTopNeutronis.prefab
+  artifactKey: Guid(40996329c0265e6419f5b09a6602aa39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/TableTopNeutronis.prefab using Guid(40996329c0265e6419f5b09a6602aa39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c3939f2c000e83dd1cd9744296a4bd9') in 0.017351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardHotLavaScreen.prefab
+  artifactKey: Guid(f5dd4fd195b5d7e4199ebf387a239db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardHotLavaScreen.prefab using Guid(f5dd4fd195b5d7e4199ebf387a239db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7429efb049432918ed93a026506d1a4a') in 0.016640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardPoliceScreen.prefab
+  artifactKey: Guid(7ba3b11bb1f496949b2652ba87fab94f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardPoliceScreen.prefab using Guid(7ba3b11bb1f496949b2652ba87fab94f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d0df7156564e36fdb81e89bf10e6ef') in 0.018617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardSky.prefab
+  artifactKey: Guid(a9ab69732a47b7240a56f2b4ba545634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardSky.prefab using Guid(a9ab69732a47b7240a56f2b4ba545634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cb9357ecc77f1492ce52422bb6e23d9') in 0.018049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardPolice.prefab
+  artifactKey: Guid(88cc9a01ef104764595a70aa18dc6761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardPolice.prefab using Guid(88cc9a01ef104764595a70aa18dc6761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1ed68b691c3231c5009a4a56662ba1') in 0.023699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/TableTopBarred.prefab
+  artifactKey: Guid(6defb14dc5ddea44591aae3a5f946ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/TableTopBarred.prefab using Guid(6defb14dc5ddea44591aae3a5f946ed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779967c7957292c56d7c8fab0b4c0d2b') in 0.017151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardHotLava.prefab
+  artifactKey: Guid(cc662f8dcd858ef46bba34d1e4978627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardHotLava.prefab using Guid(cc662f8dcd858ef46bba34d1e4978627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91d3acb02df29d41f9f839c0636928f') in 0.016839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardSkyScreen.prefab
+  artifactKey: Guid(01ef96d836105ae45a250c3d2d0ddc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Full Arcades/ArcadeStandardSkyScreen.prefab using Guid(01ef96d836105ae45a250c3d2d0ddc14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db355b24dd8e14f23a326fd9ccaf1132') in 0.015539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.913289 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ArcadeStandardBlank.prefab
+  artifactKey: Guid(8ffef90c3f7ff8148960d4f9933e3513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ArcadeStandardBlank.prefab using Guid(8ffef90c3f7ff8148960d4f9933e3513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92fae0ab26c866e0c9c7f5fd00c33414') in 0.012366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/TableTopBlank.prefab
+  artifactKey: Guid(1bd00b881fd9fae46b13957a8e978867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/TableTopBlank.prefab using Guid(1bd00b881fd9fae46b13957a8e978867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aef1b22e4d50b98e36e97e5d6f8499f') in 0.017673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ControlStickBase.prefab
+  artifactKey: Guid(23f06aef8cdef1646b4ebb404ee67b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ControlStickBase.prefab using Guid(23f06aef8cdef1646b4ebb404ee67b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692dac5849921461a09bac2b8290ec5f') in 0.021326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ControlButton.prefab
+  artifactKey: Guid(09d1eb11e45c4444f8a8b2dbd81d67bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ControlButton.prefab using Guid(09d1eb11e45c4444f8a8b2dbd81d67bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746b8b634aa4626b3acf0ae978ae64be') in 0.011985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ChairTall.prefab
+  artifactKey: Guid(db817f4c10fd36e44bfa64f8219e6692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ChairTall.prefab using Guid(db817f4c10fd36e44bfa64f8219e6692) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45eb1b1616e458d92c3ad74642878587') in 0.011013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ChairShort.prefab
+  artifactKey: Guid(821c34fe8f4fded42a9e6dadb2d6933a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AurynSky/Arcade Pack 01/Prefabs/Pieces/ChairShort.prefab using Guid(821c34fe8f4fded42a9e6dadb2d6933a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3755f2175e1261a4edbcba8ec22489eb') in 0.017479 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
